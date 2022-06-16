@@ -4,5 +4,5 @@ requests
 voila==0.2.0
 git+https://github.com/datakaveri/iudx-python-sdk
 voila-gridstack==0.2.0
-jupyterlab>=3.1
+
 
