@@ -1,5 +1,5 @@
 pandas
-plotly
+plotly_express
 requests
 voila
 git+https://github.com/datakaveri/iudx-python-sdk
