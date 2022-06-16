@@ -2,3 +2,4 @@ pandas
 plotly
 requests
 voila
+git+https://github.com/datakaveri/iudx-python-sdk
