@@ -1,6 +1,6 @@
 pandas
 plotly_express
 requests
-voila
+voila == 0.2.12
 git+https://github.com/datakaveri/iudx-python-sdk
 voila-gridstack
