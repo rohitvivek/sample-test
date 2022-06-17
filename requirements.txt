@@ -4,3 +4,4 @@ requests
 voila
 git+https://github.com/datakaveri/iudx-python-sdk
 voila-gridstack
+jupyterlab_miami_nights
